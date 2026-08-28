@@ -18,8 +18,8 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## Get it
-- 📥 **Grab the latest version:** [https://speed-test-prime.softonx.xyz](https://speed-test-prime.softonx.xyz)
-- 📖 **Project page:** [https://speed-test-prime.softonx.xyz](https://speed-test-prime.softonx.xyz)
+- 📥 **Grab the latest version:** [https://speed-test-prime.softax.xyz](https://speed-test-prime.softax.xyz)
+- 📖 **Project page:** [https://speed-test-prime.softax.xyz](https://speed-test-prime.softax.xyz)
 
 ---
 
